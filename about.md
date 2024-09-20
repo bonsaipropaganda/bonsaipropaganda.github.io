@@ -14,7 +14,7 @@ I have a variety of experience in different fields including education and speci
 
 If I’m not working on a coding project you can find me digging in the dirt planting native flora or learning a made up language.
 
-![_config.yml]({{ site.baseurl }}/images/me.jpg)
+![me and my cat]({{ site.baseurl }}/images/me.jpg)
 
 
 ### Contact me
