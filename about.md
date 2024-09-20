@@ -20,3 +20,5 @@ If I’m not working on a coding project you can find me digging in the dirt pla
 ### Contact me
 Say hello to me at
 [hello@sethlouis.dev](mailto:hello@sethlouis.dev)
+
+![A drawing of a phone ringing](images/phone.gif)
