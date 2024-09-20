@@ -21,4 +21,4 @@ If I’m not working on a coding project you can find me digging in the dirt pla
 Say hello to me at
 [hello@sethlouis.dev](mailto:hello@sethlouis.dev)
 
-![_config.yml]({{ site.baseurl }}/images/phone.gif)
+![an animated phone ringing]({{ site.baseurl }}/images/phone.gif)
