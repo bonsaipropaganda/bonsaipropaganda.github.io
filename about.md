@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm Seth Louis! I’m a game developer and lifelong learner.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My work is an attempt at expressing something unique that can connect with people and make them reassess how they’re living. I hope to make the world a better place through the things that I make.
+
+I have a variety of experience in different fields including education and specifically teaching others to code. My favorite part about helping others learn to code is when I’m able to blow someone’s mind by dropping a knowledge bomb on their chrome dome.
+
+If I’m not working on a coding project you can find me digging in the dirt planting native flora or learning a made up language.
+
+![Seth (me) holding my cat, gobi](images/me.jpg "Me and Gobi (my cat)")
+
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Say hello to me at
+[hello@sethlouis.dev](mailto:hello@sethlouis.dev)
