@@ -14,11 +14,11 @@ I have a variety of experience in different fields including education and speci
 
 If I’m not working on a coding project you can find me digging in the dirt planting native flora or learning a made up language.
 
-![Seth (me) holding my cat, gobi](images/me.jpg "Me and Gobi (my cat)")
+![_config.yml]({{ site.baseurl }}/images/me.jpg)
 
 
 ### Contact me
 Say hello to me at
 [hello@sethlouis.dev](mailto:hello@sethlouis.dev)
 
-![A drawing of a phone ringing](images/phone.gif)
+![_config.yml]({{ site.baseurl }}/images/phone.gif)
