@@ -1,8 +1,8 @@
 ---
 title: How The Freedom Model Challenges Mainstream Ideas About Addiction And How To Use It For Anything
-tags: life, literature
+tags: life literature
 ---
-![painting of still life](http://www.metmuseum.org/art/collection/search/436450 "Still Life by Paul Gauguin")
+![painting of still life](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Still_Life_MET_DT1501.jpg/640px-Still_Life_MET_DT1501.jpg "Still Life by Paul Gauguin")
 Still Life by Paul Gauguin 
 
 The Freedom Model is a positive approach to reassessing behaviors usually referred to as “addictions”. It strongly emphasizes our ability to choose our behaviors by encouraging a realistic and clear view of our options. The book was written with substances in mind, but really the principles can be applied to many behaviors and areas of life. 
