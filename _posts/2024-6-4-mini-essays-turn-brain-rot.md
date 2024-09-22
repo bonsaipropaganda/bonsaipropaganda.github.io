@@ -4,7 +4,7 @@ title: Mini Essays Turn Brain Rot Into Gold
 tags: learning
 ---
 
-![A painting of a man getting ready](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Morning%2C_Interior_-_Luce.jpeg/640px-Morning%2C_Interior_-_Luce.jpeg "Morning, Interior by Maximilien Luce")
+![A painting of a man getting ready](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Morning%2C_Interior_-_Luce.jpeg/640px-Morning%2C_Interior_-_Luce.jpeg "Morning, Interior by Maximilien Luce")  
 Morning, Interior by Maximilien Luce
 
 Mini essays are the tool I’ve been searching for to help me process and make sense of my daily life. You can probably tell what they are based on the name, but just in case I’ll explain. Mini essays are short essays that are often informative, but really can be about anything you want. I find myself often going through life feeling like I’m asleep. It feels like I’m encountering ideas, feelings, new information, and experiences, but I forget about them or have to move on to whatever the next thing is. Life feels fleeting, and I want to hold onto it. Mini essays, and writing in general, and honestly all documented self expression have been my solution to this panic inducing thought that life won’t last forever.
