@@ -3,7 +3,7 @@ layout: post
 tags: film
 title: Joel Haver Teaches What “No Budget” Actually Means
 ---
-!["Movie Being Filmed by Karl Wolfgang Böhmer"](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Movie_Being_Filmed_MET_DP803698.jpg/640px-Movie_Being_Filmed_MET_DP803698.jpg "Movie Being Filmed by Karl Wolfgang Böhmer")
+!["Movie Being Filmed by Karl Wolfgang Böhmer"](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Movie_Being_Filmed_MET_DP803698.jpg/640px-Movie_Being_Filmed_MET_DP803698.jpg "Movie Being Filmed by Karl Wolfgang Böhmer") 
 Movie Being Filmed by Karl Wolfgang Böhmer 
 
 The oscars define a feature length film as being 40 minutes long at least. That seems a little short, but at least it’s a definition everyone can agree on. Film buffs have long touted movies with budgets in the thousands, sometimes ten or even hundred thousand dollars as being “no budget” or “micro budget” films. A lot of young people getting into the world of films and film making are very discouraged hearing numbers like this. These big numbers make it seem like it’s impossible to create a serious or real film for anything under thousands of dollars. Joel Haver shows us that anyone can make “real” films with aboslutely no money at all.
