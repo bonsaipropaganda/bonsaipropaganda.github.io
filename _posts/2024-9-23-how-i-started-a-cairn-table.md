@@ -1,6 +1,6 @@
 ---
 layout: post
-title How I Started a Cairn Open Table
+title: How I Started a Cairn Open Table
 tags: life games
 ---
 
