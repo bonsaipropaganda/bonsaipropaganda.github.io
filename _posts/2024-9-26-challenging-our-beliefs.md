@@ -3,8 +3,8 @@ layout: post
 title: Changing Beliefs with Cognitive Restructuring
 tags: mindfulness
 ---
-!["Portrait of Eduard Kosmack by Egon Schiele"](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Egon_Schiele_-_Eduard_Kosmack_-_4702_-_%C3%96sterreichische_Galerie_Belvedere.jpg/596px-Egon_Schiele_-_Eduard_Kosmack_-_4702_-_%C3%96sterreichische_Galerie_Belvedere.jpg?20181121005920 "Portrait of Eduard Kosmack by Egon Schiele") 
-Portrait of Eduard Kosmack by Egon Schiele 
+!["Portrait of Eduard Kosmack by Egon Schiele"](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Egon_Schiele_-_Eduard_Kosmack_-_4702_-_%C3%96sterreichische_Galerie_Belvedere.jpg/596px-Egon_Schiele_-_Eduard_Kosmack_-_4702_-_%C3%96sterreichische_Galerie_Belvedere.jpg?20181121005920 "Portrait of Eduard Kosmack by Egon Schiele")  
+Portrait of Eduard Kosmack by Egon Schiele
 
 Cognitive Behavior Therapy is a popular form of therapy which focuses on the ways in which our thoughts, emotions, and behaviors are interconnected. Cognitive Restructuring is a flexible, CBT related tool which has been found to be useful by many individuals and CBT professionals. This tool is used to identify and change or reframe the thoughts which are contributing to emotional or behavioral issues.
 
