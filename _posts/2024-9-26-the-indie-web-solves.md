@@ -4,6 +4,9 @@ title: The Indie Web Solves What Corporations Created
 tags: life mindfulness
 ---
 
+!["Houses at Auvers by Vincent Van Gogh"](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vincent_van_Gogh_-_Houses_at_Auvers_-_Google_Art_Project.jpg/743px-Vincent_van_Gogh_-_Houses_at_Auvers_-_Google_Art_Project.jpg?20121009001109 "Houses at Auvers by Vincent Van Gogh")
+Houses at Auvers by Vincent Van Gogh 
+
 The internet, once an exciting, new tool for human connection, is now seen as a problem in many people's personal lives. Books like Cal Newport's Digital Minimalism becoming a New York Times bestseller, and reddits like r/nosurf cropping up with almost 250,000 users, show that people have come to see the technologies of the internet as a double edged sword. Much of this, I think can be attributed to the centralization of the internet. Four out of five of the most visited websites in the past month, August of 2024, were social media sites or content silos, YouTube, Facebook, Instagram, and X.com. 
 
 Most of the internet's traffic is happening on these centralized sites which are controlled by massive corporations whose primary motive is to make money. Non-coincidentally, the issues people often have with the internet, endless scrolling, rage bait, stealing data, and ads, are all things which directly benefit these corporations. That's where the Indie Web comes in, a movement away from the corporate web. Indie blogs and personal websites don't have any of these problems. It doesn't make sense to freely contribute labor to corporations who are just profiting off of it. Instead if we all posted to our own sites, we could connect with each other without the negative consequences imposed by corporations. 
@@ -12,11 +15,11 @@ This is why I started my own personal blog and would like to slowly move away fr
 
 
 ### References
-- https://calnewport.com/writing/
-- https://www.reddit.com/r/nosurf/
-- https://en.wikipedia.org/wiki/Commercialization_of_the_Internet
-- https://www.similarweb.com/top-websites/
-- https://indieweb.org/silo
-- https://jekyllrb.com
-- https://github.com/barryclark/jekyll-now
-- https://porkbun.com/
+- <https://calnewport.com/writing/>
+- <https://www.reddit.com/r/nosurf/>
+- <https://en.wikipedia.org/wiki/Commercialization_of_the_Internet>
+- <https://www.similarweb.com/top-websites/>
+- <https://indieweb.org/silo>
+- <https://jekyllrb.com>
+- <https://github.com/barryclark/jekyll-now>
+- <https://porkbun.com/>
