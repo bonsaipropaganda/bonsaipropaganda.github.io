@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doing Nothing Is Painful but Also Nice
-tags: life
+tags: life mindfulness
 ---
 
 ![Democritus in meditation by Salvator Rosa](https://upload.wikimedia.org/wikipedia/commons/4/42/Print_%28BM_W%2C7.112%29.jpg "Democritus in meditation by Salvator Rosa")
