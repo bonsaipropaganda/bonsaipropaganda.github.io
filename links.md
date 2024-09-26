@@ -15,4 +15,5 @@ I hope you gain something from these places just as I have. I'll continue to add
 - <https://www.todepond.com/>
 - <https://sky-spire.bearblog.dev/>
 - <https://odinsongames.substack.com>
+- <https://widdershinswanderings.bearblog.dev>
 - <www.omocat.com>
