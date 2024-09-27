@@ -7,6 +7,7 @@ title: Some links!
 
 I hope you gain something from these places just as I have. I'll continue to add to this list and maybe it will be a huge list one day. These links are in no particular order and in some ways will just serve as a "bookmarks" bar for myself: addresses to places I want to visit again.
 
+- <https://www.robingreenfield.org/blog/>
 - <https://newschoolrevolution.com/>
 - <https://www.themarginalian.org/>
 - <https://clementineaccount.github.io/>
