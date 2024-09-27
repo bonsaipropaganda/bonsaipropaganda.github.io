@@ -18,7 +18,7 @@ Some examples of Socratic questioning would be:
 - Is it possible that there is another way to look at this?
 - Am I having this thought out of habit?
 
-Once a belief or possible cognitive distortion has been identified, in addition to Socratic questioning, conducting an experiment can help reveal whether this belief is true or not. Just like a scientist would test a theory, a thought can also be tested in many different possible experiments. Scheduling the experiment at a specific upcoming time and date which is within the next week can be especially helpful for those who might put it off. After the experiment, the belief can be re-evaluated and possibly tested more in different scenarios. Beliefs take time to form and can take time to change, but they *can* be changed.
+Once a belief or possible cognitive distortion has been identified, in addition to Socratic questioning, conducting an experiment can help reveal whether this belief is true or not. Just like a scientist would test a theory, a thought can also be tested in different ways. Scheduling an experiment within the next week can be especially helpful for those who might put it off. After the experiment, the belief can be re-evaluated and possibly tested more in different scenarios. Beliefs take time to form and can take time to change, but they *can* be changed.
 
 
 
