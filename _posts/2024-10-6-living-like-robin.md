@@ -3,7 +3,7 @@ layout: post
 title: Living Like Robin Greenfield Could Solve the World's Major Issues
 tags: life sustainability
 ---
-![Still Life with Peaches by Pierre-Auguste Renoir](https://upload.wikimedia.org/wikipedia/commons/1/19/Still_Life_with_Peaches_MET_DT1140.jpg)
+![Still Life with Peaches by Pierre-Auguste Renoir](https://upload.wikimedia.org/wikipedia/commons/1/19/Still_Life_with_Peaches_MET_DT1140.jpg) Still Life with Peaches by Pierre-Auguste Renoir 
 
 Our world faces huge issues like environmental collapse, governments perpetuating genocide, extreme wealth inequality, corporate greed. The list of huge problems quickly feels insurmountable, but there is hope. These problems do have solutions. Often the solutions feel completely inaccessible, unclear, or abstract though. Robin Greenfield, an activist, successfully grew and foraged all of his own food for a year. This could be a blueprint or at least a glimpse of the solution. 
 
