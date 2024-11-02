@@ -3,6 +3,8 @@ layout: post
 title: What Happens When Your TTRPG Players Do Nothing.
 tags: TTRPG
 ---
+![Las (Forest), by Anna Berent](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Las_%28Forest%29%2C_painting_by_Anna_Berent_%281871-1944%29_02.jpg/2000px-Las_%28Forest%29%2C_painting_by_Anna_Berent_%281871-1944%29_02.jpg)
+Las (Forest), by Anna Berent 
 
 When running a TTRPG, player inaction can be confusing and even frustrating for game masters. You can feel like it takes away from the momentum and fun of the game. After all, these games are about players doing things and GMs narrating the consequences that follow. It's crucial for players and GMs to remember that even inaction is a choice. 
 
