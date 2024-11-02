@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happens When Your TTRPG Players Do Nothing.
-tags: TTRPG
+tags: TTRPG games
 ---
 ![Las (Forest), by Anna Berent](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Las_%28Forest%29%2C_painting_by_Anna_Berent_%281871-1944%29_02.jpg/2000px-Las_%28Forest%29%2C_painting_by_Anna_Berent_%281871-1944%29_02.jpg)
 Las (Forest), by Anna Berent 
