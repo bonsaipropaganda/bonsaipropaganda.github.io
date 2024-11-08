@@ -4,7 +4,7 @@ title: The Indie Web Solves What Corporations Created
 tags: life mindfulness anarchy
 ---
 
-!["Houses at Auvers by Vincent Van Gogh"](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vincent_van_Gogh_-_Houses_at_Auvers_-_Google_Art_Project.jpg/743px-Vincent_van_Gogh_-_Houses_at_Auvers_-_Google_Art_Project.jpg?20121009001109 "Houses at Auvers by Vincent Van Gogh")
+!["Houses at Auvers by Vincent Van Gogh"](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vincent_van_Gogh_-_Houses_at_Auvers_-_Google_Art_Project.jpg/743px-Vincent_van_Gogh_-_Houses_at_Auvers_-_Google_Art_Project.jpg?20121009001109 "Houses at Auvers by Vincent Van Gogh") 
 Houses at Auvers by Vincent Van Gogh 
 
 The internet, once an exciting, new tool for human connection, is now seen as a problem in many people's personal lives. Books like Cal Newport's Digital Minimalism becoming a New York Times bestseller, and reddits like r/nosurf cropping up with almost 250,000 users, show that people have come to see the technologies of the internet as a double edged sword. Much of this, I think can be attributed to the centralization of the internet. Four out of five of the most visited websites in the past month, August of 2024, were social media sites or content silos, YouTube, Facebook, Instagram, and X.com. 
