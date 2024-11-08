@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Indie Web Solves What Corporations Created
-tags: life mindfulness
+tags: life mindfulness anarchy
 ---
 
 !["Houses at Auvers by Vincent Van Gogh"](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vincent_van_Gogh_-_Houses_at_Auvers_-_Google_Art_Project.jpg/743px-Vincent_van_Gogh_-_Houses_at_Auvers_-_Google_Art_Project.jpg?20121009001109 "Houses at Auvers by Vincent Van Gogh")
