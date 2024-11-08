@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Started a Cairn Open Table
-tags: life games
+tags: life games TTRPG
 ---
 
 !["A Friend in Need by Cassius Marcellus Coolidge"](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/A_Friend_in_Need_1903_C.M.Coolidge.jpg/800px-A_Friend_in_Need_1903_C.M.Coolidge.jpg?20230718174045 "A Friend in Need by Cassius Marcellus Coolidge")
