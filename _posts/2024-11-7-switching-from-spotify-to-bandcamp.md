@@ -5,7 +5,9 @@ title: How/Why To Switch to Bandcamp from Spotify
 ---
 ## (or any streaming service)
 
-![A Concert by Lorenzo Costa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Concert_by_Lorenzo_Costa.jpg/468px-Concert_by_Lorenzo_Costa.jpg?20071213221601)  A Concert by Lorenzo Costa 
+![A Concert by Lorenzo Costa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Concert_by_Lorenzo_Costa.jpg/468px-Concert_by_Lorenzo_Costa.jpg?20071213221601)  
+
+A Concert by Lorenzo Costa 
 
 Streaming services suck, and are not designed so that artists can make any money. Bandcamp on the otherhand only makes money when their artists make money, so they always are incentivized to help artists make money. The common trend with tech giants is to undersell competitors and move in as a monopoly. Making profits in the beginning is not the objective, but rather to push out competition by offering a service which seems too good to be true. This has been the story with Netflix, Uber, Amazon, and Spotify. Drive out competition by undercutting everyone, avoid paying laborers fairly, and then slowly increase the price for the consumer while continuining to buy off competition. Artists are caught in the crossfire of this and their needs are never considered.
 
