@@ -20,3 +20,10 @@ Another nice aspect of Arugula is that it grows quickly. It only takes about a m
 
 
 If you're planning to start a garden, you can begin with arugula. If you already have arugula growing, you can harvest arugula seeds and give them to a free seed library. If there aren't any free seed libraries near you, your neighbors would probably love some. 
+
+
+References:
+- https://en.wikipedia.org/wiki/Eruca_vesicaria?wprov=sfti1#Cultivation
+- https://plants.ces.ncsu.edu/plants/eruca-vesicaria/
+- https://morningchores.com/growing-arugula/
+- https://www.growjourney.com/gardening-guides/gardening-guide-arugula/#seed-saving
