@@ -23,7 +23,7 @@ If you're planning to start a garden, you can begin with arugula. If you already
 
 
 References:
-- https://en.wikipedia.org/wiki/Eruca_vesicaria?wprov=sfti1#Cultivation
-- https://plants.ces.ncsu.edu/plants/eruca-vesicaria/
-- https://morningchores.com/growing-arugula/
-- https://www.growjourney.com/gardening-guides/gardening-guide-arugula/#seed-saving
+- [Eruca Vesicaria - Wikipedia](https://en.wikipedia.org/wiki/Eruca_vesicaria?wprov=sfti1#Cultivation)
+- [Eruca Vesicaria - NC State](https://plants.ces.ncsu.edu/plants/eruca-vesicaria/)
+- [Growing Arugula](https://morningchores.com/growing-arugula/)
+- [Gardening Guide Arugula](https://www.growjourney.com/gardening-guides/gardening-guide-arugula/#seed-saving)
