@@ -19,6 +19,6 @@ By saying no to these unnecessary products, I’m able to be healthier, save mon
 ## References:
 
 - [The Effect of Cleansers on the Skin Microbiome](https://practicaldermatology.com/youngmd-connect/resident-resource-center/the-effect-of-cleansers-on-the-skin-microbiome/23269/)
-- What Is the Skin Microbiome?](https://www.webmd.com/skin-problems-and-treatments/skin-microbiome)
+- [What Is the Skin Microbiome?](https://www.webmd.com/skin-problems-and-treatments/skin-microbiome)
 - [human microbiome](https://www.britannica.com/science/human-microbiome)
 - [What Is No Poo, How Does It Work, and Should You Try It?](https://www.healthline.com/health/beauty-skin-care/no-poo)
