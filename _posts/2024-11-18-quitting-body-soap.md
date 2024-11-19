@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: Quitting body soap, body wash,  shampoo, and conditioner
 tags: anarchy sustainability minimalism
 ---
