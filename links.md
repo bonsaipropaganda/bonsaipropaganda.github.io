@@ -18,3 +18,4 @@ I hope you gain something from these places just as I have. I'll continue to add
 - <https://odinsongames.substack.com>
 - <https://widdershinswanderings.bearblog.dev>
 - <https://www.omocat.com>
+- <https://www.dreamingspanish.com/blog>
