@@ -16,4 +16,4 @@ Everything we do is an action, an intentional choice. Even if it's an unconcsiou
 ### References
 
 - [What is Wu-Wei (Nondoing)?](https://taopage.org/nondoing.html)
-- [TAOISM | The Philosophy Of Flow](https://www.youtube.com/watch?v=JtGtqmC5wU4)
+- [TAOISM- The Philosophy Of Flow](https://www.youtube.com/watch?v=JtGtqmC5wU4)
