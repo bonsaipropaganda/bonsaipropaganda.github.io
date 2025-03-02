@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nondoing- A Daoist Option For When You Are Offered a Beer At a Party.
+title: Nondoing- A Daoist Option For When You Are Offered a Beer At a Party
 tags: mindfulness life
 ---
 
