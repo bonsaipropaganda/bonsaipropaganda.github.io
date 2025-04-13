@@ -3,11 +3,11 @@ layout: post
 title: How I Started a Cairn Open Table
 tags: life games TTRPG
 ---
-
+First of all, if you're reading this and you're not familiar with either of these things, why are you reading this?  
 !["A Friend in Need by Cassius Marcellus Coolidge"](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/A_Friend_in_Need_1903_C.M.Coolidge.jpg/800px-A_Friend_in_Need_1903_C.M.Coolidge.jpg?20230718174045 "A Friend in Need by Cassius Marcellus Coolidge")
 A Friend in Need by Cassius Marcellus Coolidge 
 
-First of all, if you're reading this and you're not familiar with either of these things, why are you reading this? No, seriously, email me and tell me. Just in case that is you though, Cairn is a rules light fantasy tabletop role playing game (TTRPG). An open table is kind of like a pickup game of basketball. Different players might show up each week, and it's open to anyone each week. Cairn is a really good fit for this style of table because the rules are so easy to pickup and can be explained on the fly. Characters can be easily and quickly generated at the start of the session or even in the middle of a session. 
+No, seriously, email me and tell me. Just in case that is you though, Cairn is a rules light fantasy tabletop role playing game (TTRPG). An open table is kind of like a pickup game of basketball. Different players might show up each week, and it's open to anyone each week. Cairn is a really good fit for this style of table because the rules are so easy to pickup and can be explained on the fly. Characters can be easily and quickly generated at the start of the session or even in the middle of a session. 
 
 Lurking on online forums and groups, will reveal that there are a lot of people who would like to play more TTRPGs than they do. Finding a group of players who can commit to meeting regularly is very difficult especially for adults with jobs. Often people just don't have that many friends or have friends who are not into TTRPGs. Players might fall through as well which could throw things off. This is why having an open table, is the perfect solution. It's especially good for people who don't already have a group of friends who want to play TTRPGs because it's very low committment for strangers to show up to a game and see if they like it. Unlike a one-shot which is strictly just one session, if those players do like it they can keep coming back to each session. 
 

@@ -3,11 +3,11 @@ layout: post
 title: Mini Essays Turn Brain Rot Into Gold
 tags: learning
 ---
-
+Mini essays are the tool I’ve been searching for to help me process and make sense of my daily life.  
 ![A painting of a man getting ready](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Morning%2C_Interior_-_Luce.jpeg/640px-Morning%2C_Interior_-_Luce.jpeg "Morning, Interior by Maximilien Luce")  
 Morning, Interior by Maximilien Luce
 
-Mini essays are the tool I’ve been searching for to help me process and make sense of my daily life. You can probably tell what they are based on the name, but just in case I’ll explain. Mini essays are short essays that are often informative, but really can be about anything you want. I find myself often going through life feeling like I’m asleep. It feels like I’m encountering ideas, feelings, new information, and experiences, but I forget about them or have to move on to whatever the next thing is. Life feels fleeting, and I want to hold onto it. Mini essays, and writing in general, and honestly all documented self expression have been my solution to this panic inducing thought that life won’t last forever.
+You can probably tell what they are based on the name, but just in case I’ll explain. Mini essays are short essays that are often informative, but really can be about anything you want. I find myself often going through life feeling like I’m asleep. It feels like I’m encountering ideas, feelings, new information, and experiences, but I forget about them or have to move on to whatever the next thing is. Life feels fleeting, and I want to hold onto it. Mini essays, and writing in general, and honestly all documented self expression have been my solution to this panic inducing thought that life won’t last forever.
 
 Mini essays can be about anything, but what I find particularly useful about them is their ability to freeze time and relish an idea or moment. It’s comforting to be able to hit pause. Consuming lots of content on autopilot scares me. That sounds weird, but put yourself in my shoes. You’re going about your life doing what you need to do to continue to stay alive and well, and then there is a moment where you can do anything you want. Of course, you don’t consciously think about this (probably (at least I usually don’t)), and you look at some random stuff on a screen that you didn’t intentionally seek out. Then the moment is over, and it’s time for the next thing. It’s so sudden. For that moment, it felt like you weren’t alive. That terrifies me. I’ll only be alive for so long. I want to get as much out of it as I can, and that means I need to be present to savor each moment.
 
