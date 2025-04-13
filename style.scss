@@ -264,6 +264,11 @@ nav {
 .post-bottom{
   display: flex;
 }
+
+.post-bottom > h2 {
+  margin: 10px;
+}
+
   .comments {
     margin-top: 10px;
   }
