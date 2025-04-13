@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Mini Essays Turn Brain Rot Into Gold
+subtitle: Writing to make sense of life and keep our brains from melting.
+image: ![A painting of a man getting ready](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Morning%2C_Interior_-_Luce.jpeg/640px-Morning%2C_Interior_-_Luce.jpeg "Morning, Interior by Maximilien Luce")
 tags: learning
 ---
 
