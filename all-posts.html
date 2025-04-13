@@ -2,20 +2,13 @@
 layout: default
 ---
 
-<h1>Blog</h1>
+<h1>All Posts</h1>
 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-
       <p>Tags: 
         {% for tag in post.tags %}
           <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}">{{ tag }}</a>
