@@ -263,10 +263,11 @@ nav {
 
 .post-bottom{
   display: flex;
+  flex-wrap: nowrap;
 }
 
 .post-bottom > a {
-  margin: 10px;
+  margin-right: 10px;
 }
 
   .comments {
