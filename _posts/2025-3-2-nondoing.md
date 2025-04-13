@@ -4,8 +4,7 @@ title: Nondoing- A Daoist Option For When You Are Offered a Beer At a Party
 tags: mindfulness life
 ---
 
-## It is better to wait for the tide to pull your boat to shore than to force yourself to pull it to shore.
-
+## It is better to wait for the tide to pull your boat to shore than to force yourself to pull it to shore. 
 ![Elterwater and Langdale Pikes by A. Heaton Cooper.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Elterwater_and_Langdale_Pikes_-_The_English_Lakes_-_A._Heaton_Cooper.jpg/800px-Elterwater_and_Langdale_Pikes_-_The_English_Lakes_-_A._Heaton_Cooper.jpg?20160807114644g "Elterwater and Langdale Pikes by A. Heaton Cooper.")  
 Elterwater and Langdale Pikes by A. Heaton Cooper.  
 
