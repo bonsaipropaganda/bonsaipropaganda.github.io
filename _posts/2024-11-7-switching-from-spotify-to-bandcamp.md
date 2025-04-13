@@ -3,8 +3,7 @@ layout: post
 tags: anarchy indie
 title: How/Why To Switch to Bandcamp from Spotify
 ---
-## (or any streaming service)
-
+(or any streaming service)
 ![A Concert by Lorenzo Costa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Concert_by_Lorenzo_Costa.jpg/468px-Concert_by_Lorenzo_Costa.jpg?20071213221601)  
 
 A Concert by Lorenzo Costa 

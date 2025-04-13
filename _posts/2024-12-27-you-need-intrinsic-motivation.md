@@ -4,8 +4,7 @@ title: You Need Intrinsic Motivation
 tags: life
 ---
 
-## Enjoying the process is much more important than focusing on the end results.
-
+Enjoying the process is much more important than focusing on the end results.
 ![A healthy appetite by Luigi Bechi](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Luigi_Bechi_A_healthy_appetite.jpg/494px-Luigi_Bechi_A_healthy_appetite.jpg?20221126131752)  
 A healthy appetite by Luigi Bechi
 

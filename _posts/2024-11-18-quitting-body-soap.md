@@ -4,8 +4,7 @@ title: Quitting Body Soap, Body Wash, Shampoo, and Conditioner
 tags: anarchy sustainability minimalism
 ---
 
-## Letting go of unnecessary products one at a time.
-
+Letting go of unnecessary products one at a time.
 ![Hungary by Adrian Stokes](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hungary_%281909%29_%2814597289679%29.jpg/2000px-Hungary_%281909%29_%2814597289679%29.jpg)  
 Hungary by Adrian Stokes
 

@@ -3,8 +3,7 @@ layout: post
 title: Saving Arugula Seeds
 tags: anarchy sustainability
 ---
-## Within an hour you can collect hundreds of arugula seeds.
-
+Within an hour you can collect hundreds of arugula seeds.
 ![The Habitant Farm by Cornelius Krieghoff](https://upload.wikimedia.org/wikipedia/commons/5/5a/%27The_Habitant_Farm%27_%2C_oil_on_canvas_painting_by_Cornelius_Krieghoff%2C_1856%2C_National_Gallery_of_Canada.jpg?20090316004027)  
 *The Habitant Farm by Cornelius Krieghoff*
 
