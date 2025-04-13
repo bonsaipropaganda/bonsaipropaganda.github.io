@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mini Essays Turn Brain Rot Into Gold
-subtitle: Writing to make sense of life and keep our brains from melting.
 tags: learning
 ---
 
