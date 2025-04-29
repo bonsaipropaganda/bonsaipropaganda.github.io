@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listening to Comprehensible Input for 150+ Days
+title: Comprehensible Input Is All You Need To Learn a Language
 tags: language learning habits
 ---
 
