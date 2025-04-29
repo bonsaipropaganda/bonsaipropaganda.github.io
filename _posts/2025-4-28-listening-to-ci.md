@@ -24,7 +24,7 @@ Comprehensible input is intuitive. Afterall, we all say "they picked up" the lan
 
 ![Dreaming Spanish Roadmap](https://cdn.prod.website-files.com/60fb923336a77a79f20d5348/671620276bd7687592327cc0_Compact%20Dreaming%20Spanish%20timeline-p-1080.png)
 
-The DS (Dreaming Spanish) roadmap provided real expectations and tangible results to look for at each stage in the language acquisition journey. With all of the success stories from the DS discord and YouTube, I decided it was time to take things seriously mid last year. I began tracking my input time using the iPhone app habit. insert app photo andlink  
+The DS (Dreaming Spanish) roadmap provided real expectations and tangible results to look for at each stage in the language acquisition journey. With all of the success stories from the DS discord and YouTube, I decided it was time to take things seriously mid last year. I began tracking my input time using the iPhone app [Habit](https://apps.apple.com/us/app/habit-tracker/id1438388363)
 
 So far I'm up to 400+ tracked hours, with a daily streak of 170 days. 
 
