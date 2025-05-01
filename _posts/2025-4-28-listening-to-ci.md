@@ -23,7 +23,7 @@ A side note on Toki Pona: this is a constructed language, in other words an enti
 
 Comprehensible input is intuitive. Afterall, we all say "they picked up" the language. CI just gives you the necessary input to "pick it up". For years, I was convinced of this, but struggled with not knowing how to actually do this or how long it would take. I needed a roadmap. There was also barely any discourse on it that I could find. An organization called [Dreaming Spanish](https://www.dreamingspanish.com/about) created a roadmap based on their actual experience of using only CI to acquire and help others acquire languages. It was the last piece I needed.  
 
-[![Dreaming Spanish Roadmap](https://cdn.prod.website-files.com/60fb923336a77a79f20d5348/671620276bd7687592327cc0_Compact%20Dreaming%20Spanish%20timeline-p-1080.png) insert link here](https://www.dreamingspanish.com/method)
+[![Dreaming Spanish Roadmap](https://cdn.prod.website-files.com/60fb923336a77a79f20d5348/671620276bd7687592327cc0_Compact%20Dreaming%20Spanish%20timeline-p-1080.png)  
 
 The DS (Dreaming Spanish) roadmap provided real expectations and tangible results to look for at each stage in the language acquisition journey. With all of the success stories from the DS discord and YouTube, I decided it was time to take things seriously mid last year. I began tracking my input time using the iPhone app [Habit](https://apps.apple.com/us/app/habit-tracker/id1438388363) So far I'm up to 400+ tracked hours, with a daily streak of 170 days. If you'd like to do the same and only have Android, I recommend using the app: [Loop Habit Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en). Loop is open source, and in my opinion a little better because it gives you more data.  
 
