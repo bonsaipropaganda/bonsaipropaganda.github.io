@@ -4,7 +4,7 @@ title: Comprehensible Input Is All You Need To Learn a Language
 tags: language learning habits
 ---
 
-It's actually been over 160, but 150 sounded nicer.
+No seriously. We really do naturally pick up languages.
 ![Cycling in Amsterdam by Alfredo Borba](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cycling_Amsterdam_03.jpg/960px-Cycling_Amsterdam_03.jpg?20140811165132) Cycling in Amsterdam by Alfredo Borba   
 
 My journey with CI (comprehensible input) began when I was a teenager in the 2010s when I stumbled on a video of Stephen Krashen explaining the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis). His thoughts and video on language acquisition are something anybody interested in language learning would benefit from.  
