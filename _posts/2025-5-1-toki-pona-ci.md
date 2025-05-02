@@ -3,8 +3,10 @@ layout: post
 title: Learning Toki Pona through comprehensible input 
 tags: language learning
 ---
-
-Toki Pona is a minimalist constructed language. This means it’s an entirely made up language which didn’t naturally evolved like other languages. This is different than a code which obscures an existing language. A language allows for a completely different way of thinking. A language has its own grammar, morphology, phonology, etc. Toki Pona was created by Sonja Lang all the way back in the 2000s. Since then it’s grown a passionate community of speakers. The idea behind the language is to express the core truths of life simply without over complicating things. Thus the language only has around 150 words. 
+Toki Pona is a minimalist constructed language.  
+![Toki Pona flag](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Alternative_Toki_Pona_flag.svg/960px-Alternative_Toki_Pona_flag.svg.png?20211013015338)  
+Alternative Toki Pona flag by [LiliCharlie](https://commons.wikimedia.org/wiki/User:LiliCharlie)  
+This means it’s an entirely made up language which didn’t naturally evolved like other languages. This is different than a code which obscures an existing language. A language allows for a completely different way of thinking. A language has its own grammar, morphology, phonology, etc. Toki Pona was created by Sonja Lang all the way back in the 2000s. Since then it’s grown a passionate community of speakers. The idea behind the language is to express the core truths of life simply without over complicating things. Thus the language only has around 150 words. 
 
 If you wanted to actually learn Toki Pona through comprehensible input, natural immersion, or are just familiar with Krashen’s [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis) and want to test it out, you might be surprised to find there is hypothetically enough content in Toki Pona to do so. One of the biggest problems with learning languages through natural immersion is there isn’t sufficient amounts of content or appropriate content for languages that are obscure or unpopular to learn. This is why it’s so amazing and surprising that a tiny language with a tiny community might have enough content to do this. 
 
