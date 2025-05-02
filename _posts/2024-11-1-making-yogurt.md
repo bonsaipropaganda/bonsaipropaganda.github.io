@@ -4,8 +4,7 @@ title: Making Yogurt is Easy and Anti-capitalist
 tags: sustainability life
 ---
 Making yogurt is actually easy, and can be an anti-capitalist action.  
-![Peasant Woman Cooking By a Fireplace by Vincent Van Gogh](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Peasant_Woman_Cooking_by_a_Fireplace.jpeg/2000px-Peasant_Woman_Cooking_by_a_Fireplace.jpeg)
- Peasant Woman Cooking By a Fireplace by Vincent Van Gogh 
+[![Peasant Woman Cooking By a Fireplace by Vincent Van Gogh](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Peasant_Woman_Cooking_by_a_Fireplace.jpeg/2000px-Peasant_Woman_Cooking_by_a_Fireplace.jpeg)](https://commons.wikimedia.org/wiki/File:Peasant_Woman_Cooking_by_a_Fireplace.jpeg)  
 
 Making yogurt from scratch like making most things from scratch is significantly cheaper. A 32 ounce jar of yogurt costs 4-8 dollars. A 128 ounce (1 gallon) jug of milk costs about the same (4-8 dollars). By this math, making your own yogurt only costs about a fourth of what it would cost to buy it. This means not only are you saving money, but you're giving less money to corporations. The less money we spend, the less money billionaires have. 
 

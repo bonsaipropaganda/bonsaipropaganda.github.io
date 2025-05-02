@@ -4,10 +4,7 @@ tags: anarchy indie
 title: How/Why To Switch to Bandcamp from Spotify
 ---
 (or any streaming service)  
-![A Concert by Lorenzo Costa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Concert_by_Lorenzo_Costa.jpg/468px-Concert_by_Lorenzo_Costa.jpg?20071213221601)  
-
-A Concert by Lorenzo Costa 
-
+[![A Concert by Lorenzo Costa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Concert_by_Lorenzo_Costa.jpg/468px-Concert_by_Lorenzo_Costa.jpg?20071213221601)](https://commons.wikimedia.org/wiki/File:Concert_by_Lorenzo_Costa.jpg)  
 Streaming services suck, and are not designed so that artists can make any money. Bandcamp on the otherhand only makes money when their artists make money, so they always are incentivized to help artists make money. The common trend with tech giants is to undersell competitors and move in as a monopoly. Making profits in the beginning is not the objective, but rather to push out competition by offering a service which seems too good to be true. This has been the story with Netflix, Uber, Amazon, and Spotify. Drive out competition by undercutting everyone, avoid paying laborers fairly, and then slowly increase the price for the consumer while continuining to buy off competition. Artists are caught in the crossfire of this and their needs are never considered.
 
 Art is valuable, and artists should get paid! Damnit! Music adds significant value to our lives, and with streaming services musicians have to rely on touring to scrape by. Spotify pays an average of $0.00318 per stream. This means an artist would have to have 100,000 streams to make $318. Making a liveable wage this way is completely impossible for most artists. With one million streams, you'd make $3180. In otherwords, to be able to afford rent, groceries etc. in a city in the USA, you'd need to have consistently one million streams a month. This is impossible. 
