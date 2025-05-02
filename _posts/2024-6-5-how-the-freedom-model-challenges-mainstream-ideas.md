@@ -3,9 +3,7 @@ title: How The Freedom Model Challenges Mainstream Ideas About Addiction And How
 tags: life literature
 ---
 The Freedom Model is a positive approach to reassessing behaviors usually referred to as “addictions”.  
-![painting of still life](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Still_Life_MET_DT1501.jpg/640px-Still_Life_MET_DT1501.jpg "Still Life by Paul Gauguin")
-Still Life by Paul Gauguin 
-
+[![painting of still life](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Still_Life_MET_DT1501.jpg/640px-Still_Life_MET_DT1501.jpg "Still Life by Paul Gauguin")](https://commons.wikimedia.org/wiki/File:Still_Life_MET_DT1501.jpg)  
 It strongly emphasizes our ability to choose our behaviors by encouraging a realistic and clear view of our options. The book was written with substances in mind, but really the principles can be applied to many behaviors and areas of life. 
 
 There is a lot of mythology surrounding substances specifically which is implicit in mainstream thought, so the book spends a considerable amount of time first dismantling these myths to allow people to make clearer decisions. The reader could follow the same process of critical examination to dismantle other myths they encounter. Some of the myths talked about in the book are as follows: substances can change your thoughts and feelings, people experience a loss of control when they engage in substance use, there is no logical reason to use substances, and if you use substances you will be trapped by them forever.
