@@ -6,7 +6,6 @@ tags: language learning habits
 
 No seriously. We really do naturally pick up languages.
 ![Cycling in Amsterdam by Alfredo Borba](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cycling_Amsterdam_03.jpg/960px-Cycling_Amsterdam_03.jpg?20140811165132) Cycling in Amsterdam by Alfredo Borba   
-
 My journey with CI (comprehensible input) began when I was a teenager in the 2010s when I stumbled on a video of Stephen Krashen explaining the [input hypothesis](https://en.wikipedia.org/wiki/Input_hypothesis). His thoughts and video on language acquisition are something anybody interested in language learning would benefit from.  
 
 [![Stephen Krashen on Language Acquisition](https://i.ytimg.com/vi/NiTsduRreug/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-AoAC8AGKAgwIABABGFwgWihlMA8=&rs=AOn4CLC694p0XaG_tmRchR4uedBCeobgNg)](https://youtu.be/NiTsduRreug?si=2ppZsTceiJ_ltJ3G)   
