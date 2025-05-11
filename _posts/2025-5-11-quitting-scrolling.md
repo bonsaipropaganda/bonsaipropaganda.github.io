@@ -1,7 +1,7 @@
 ---
+layout: post
 title: Quitting Scrolling: My Digital Minimalist Setup
 tags: mindfulness minimalism
-layout: post
 ---
 
 My smart phone and laptop are now actually dumb. 
