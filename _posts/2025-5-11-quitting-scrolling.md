@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quitting Scrolling: My Digital Minimalist Setup
+title: Quitting Scrolling- My Digital Minimalist Setup
 tags: mindfulness minimalism
 ---
 
