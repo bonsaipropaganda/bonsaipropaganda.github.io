@@ -86,4 +86,3 @@ exclude:
   - CNAME
 
 paginate: 5
-paginate_path: "https://sethlouis.dev/blog/page:num/"
