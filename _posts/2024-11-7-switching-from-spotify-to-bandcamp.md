@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: anarchy indie
+tags: anarchy indie alternatives
 title: How/Why To Switch to Bandcamp from Spotify
 ---
 (or any streaming service)  
