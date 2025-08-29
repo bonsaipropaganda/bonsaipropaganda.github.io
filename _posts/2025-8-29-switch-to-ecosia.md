@@ -5,7 +5,7 @@ tags: sustainability alternatives
 ---
 
 Go to your browser settings and make Ecosia your default search engine. Seriously, that’s all it takes. There’s really no reason not to do that.
-![Hornillo, perula y dos lebrillos (detalle) by Manuel Ussel de Guimbarda](https://upload.wikimedia.org/wikipedia/commons/a/a9/Hornillo%2C_perula_y_dos_lebrillos_%28detalle%29.jpg?20141124162203)
+![Ecosia Logo by Ecosia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ecosia_logo.svg/2000px-Ecosia_logo.svg.png)
 
 Ecosia is a nonprofit with a search engine that generates income through ads just like other search engines do. Instead of using it to fatten the wallets of those at the top, their profits go to planting trees. It’s as simple as that. They’re transparent about their finances, and they don’t just plant trees.
 
