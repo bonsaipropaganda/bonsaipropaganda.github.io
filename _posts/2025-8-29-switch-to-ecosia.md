@@ -11,14 +11,14 @@ Ecosia is a nonprofit with a search engine that generates income through ads jus
 
 When it comes to their finances, you can see all of the money they brought in last month as well as where it went. You can see how much is going towards paying their team and how much is going towards helping the planet. For example, last month they brought in about 4 million USD, and 1 million went towards paying their team while the rest went towards the planet. 
 
-Screenshot
+![Ecosia Finances August 30th 2025](/images/ecosia-finances.png)
 
-Planting trees can actually be harmful if not done right, (link) so they don’t just plant trees. They plant the right trees in the right places. (Link) their action goes beyond tree planting too by focusing on building biodiversity and making sure their tree planting projects are integrated with the communities near them. 
+Planting trees ![can actually be harmful](https://www.youtube.com/watch?v=cPzOX61ndq0) if not done right, so they don’t just plant trees. They plant the ![right trees in the right places](https://blog.ecosia.org/tgbs/). their action goes beyond tree planting too by focusing on building biodiversity and making sure their tree planting projects are integrated with the communities near them. 
 
 It’s a simple switch, it takes 30 seconds and it’ll help the planet. There’s no reason not to. Yes, you’ll have to get used to a different web searching interface and every once in awhile if I’m unsatisfied with the results I’ll search on a different search engine. It’s worth it though, and the more people who make the switch the better it’ll get as will the planet. 
 
 
 References:
-- [Ecosia Finances](https://www.americastestkitchen.com/articles/5117-how-often-should-i-replace-my-nonstick-pan)
-- [Planting Trees Can Be Harmful](https://www.americastestkitchen.com/articles/7586-are-nonstick-pans-skillets-safe-toxic)
-- [Planting the Right Trees in the Right Places](https://homecadet.com/how-long-can-a-cast-iron-skillet-last/)
+- [Ecosia Finances](https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/)
+- [Planting Trees Can Be Harmful](https://www.youtube.com/watch?v=cPzOX61ndq0)
+- [Planting the Right Trees in the Right Places](https://blog.ecosia.org/tgbs/)
