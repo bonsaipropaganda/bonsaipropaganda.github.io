@@ -19,3 +19,4 @@ I hope you gain something from these places just as I have. I'll continue to add
 - <https://widdershinswanderings.bearblog.dev>
 - <https://www.omocat.com>
 - <https://www.dreamingspanish.com/blog>
+- <https://blog.ecosia.org/>
