@@ -11,7 +11,7 @@ Ecosia is a nonprofit with a search engine that generates income through ads jus
 
 When it comes to their finances, you can see all of the money they brought in last month as well as where it went. You can see how much is going towards paying their team and how much is going towards helping the planet. For example, last month they brought in about 4 million USD, and 1 million went towards paying their team while the rest went towards the planet. 
 
-[Ecosia Finances August 30th 2025](/images/ecosia-finances.png)
+![Ecosia Finances August 30th 2025](/images/ecosia-finances.png)
 
 Planting trees [can actually be harmful](https://www.youtube.com/watch?v=cPzOX61ndq0) if not done right, so they don’t just plant trees. They plant the [right trees in the right places](https://blog.ecosia.org/tgbs/). their action goes beyond tree planting too by focusing on building biodiversity and making sure their tree planting projects are integrated with the communities near them. 
 
