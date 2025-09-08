@@ -13,7 +13,7 @@ When it comes to their finances, you can see all of the money they brought in la
 
 ![Ecosia Finances August 30th 2025](/images/ecosia-finances.png)
 
-Planting trees ![can actually be harmful](https://www.youtube.com/watch?v=cPzOX61ndq0) if not done right, so they don’t just plant trees. They plant the ![right trees in the right places](https://blog.ecosia.org/tgbs/). their action goes beyond tree planting too by focusing on building biodiversity and making sure their tree planting projects are integrated with the communities near them. 
+Planting trees [can actually be harmful](https://www.youtube.com/watch?v=cPzOX61ndq0) if not done right, so they don’t just plant trees. They plant the [right trees in the right places](https://blog.ecosia.org/tgbs/). their action goes beyond tree planting too by focusing on building biodiversity and making sure their tree planting projects are integrated with the communities near them. 
 
 It’s a simple switch, it takes 30 seconds and it’ll help the planet. There’s no reason not to. Yes, you’ll have to get used to a different web searching interface and every once in awhile if I’m unsatisfied with the results I’ll search on a different search engine. It’s worth it though, and the more people who make the switch the better it’ll get as will the planet. 
 
