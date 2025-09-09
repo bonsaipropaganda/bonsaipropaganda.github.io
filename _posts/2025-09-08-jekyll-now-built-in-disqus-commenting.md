@@ -5,7 +5,6 @@ title: Jekyll Now, An Instant Blog Solution, Includes Commenting Support Using D
 ---
 
 [Jekyll Now]( Introducing Jekyll Now – Barry Clark - Building a great engineering ... ) is a GitHub repository/Jekyll theme by [Barry Clark]( Barry Clark - Building a great engineering culture.) that can be cloned to instantly have a blog up and running with GitHub Pages free site hosting. 
-
 ![Busy Street in a German Town by Jacques Carabain](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jacques_Carabain_-_Busy_Street_in_a_German_Town_-_detail.jpg/2000px-Jacques_Carabain_-_Busy_Street_in_a_German_Town_-_detail.jpg)
 Busy Street in a German Town by Jacques Carabain   
 
