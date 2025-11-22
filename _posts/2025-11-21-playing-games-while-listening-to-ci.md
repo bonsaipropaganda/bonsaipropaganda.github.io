@@ -4,6 +4,8 @@ title: Playing Games While Listening to Comprehensible Input
 tags: language learning games
 ---
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fido_game_from_Don%27t_Buy_This.png/2000px-Fido_game_from_Don%27t_Buy_This.png](Fido game from Don't Buy This.png)Fido game from Don't Buy This.png.  
+
 A common problem folks have when first getting into listening to Comprehensible Input to naturally acquire a language is they get bored. This is especially true while folks are on lower levels of language listening or if there simply isn't a lot of choice when it comes to the kind of content folks can start immersing in. Many languages don't have an abundance of content surrounding whatever topics you're interested in that is also comprehensible to you. This leads folks to start immersing using whatever content they can find, but pretty soon they feel restless and turn off the content. Playing video games or solo board games even, can be a solution to this. 
 
 The trick really is to keep your hands and or body active while still being able to remain present enough to listen to the comprehensible input. The same effect could be accomplished by going on a walk/run, or doing some cleaning while listening to CI. Critics will argue that this will lower the quality of input leading to more input being required to acquire the language. They are not entirely wrong! However, doing things half-assed in this case is better than those things not getting done at all. If folks never enjoy listening to CI they won't do it, and won't get any CI listening in. 
