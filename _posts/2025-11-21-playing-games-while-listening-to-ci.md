@@ -4,7 +4,7 @@ title: Playing Games While Listening to Comprehensible Input
 tags: language learning games
 ---
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fido_game_from_Don%27t_Buy_This.png/2000px-Fido_game_from_Don%27t_Buy_This.png](Fido game from Don't Buy This.png)Fido game from Don't Buy This.png.  
+![https://upload.wikimedia.org/wikipedia/commons/4/45/Fido_game_from_Don%27t_Buy_This.png](Fido game from Don't Buy This.png)Fido game from Don't Buy This.png.  
 
 A common problem folks have when first getting into listening to Comprehensible Input to naturally acquire a language is they get bored. This is especially true while folks are on lower levels of language listening or if there simply isn't a lot of choice when it comes to the kind of content folks can start immersing in. Many languages don't have an abundance of content surrounding whatever topics you're interested in that is also comprehensible to you. This leads folks to start immersing using whatever content they can find, but pretty soon they feel restless and turn off the content. Playing video games or solo board games even, can be a solution to this. 
 
