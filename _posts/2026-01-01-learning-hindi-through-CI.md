@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Hindi Through Comprehensible Input: Update Level 6/7.
+title: Learning Hindi Through Comprehensible Input- Update Level 6/7.
 tags: language learning
 ---
 
