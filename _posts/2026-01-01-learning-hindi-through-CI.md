@@ -17,7 +17,7 @@ About 1.5 years ago, I decided I wanted to finally take learning Hindi more seri
 
 ![DS Roadmap](../images/DS_Roadmap.png)   The Dreaming Spanish Roadmap.
 
-Unfortunately, since I wasn't using ALG from the beginning, I had no idea how many hours of input I had actually done, so I had to guess based on the different level descriptions. After reading through the full description for Level 5 though which I found in [this pdf](../documents/ds_roadmap.pdf), it seemed to fit me and the level I felt I was at perfectly. 
+Unfortunately, since I wasn't using ALG from the beginning, I had no idea how many hours of input I had actually done, so I had to guess based on the different level descriptions. After reading through the full description for Level 5 though which I found in [this pdf](../Documents/ds_roadmap.pdf), it seemed to fit me and the level I felt I was at perfectly. 
 
 > You can understand people well when they speak
 directly to you. They won’t need to adapt their speech
