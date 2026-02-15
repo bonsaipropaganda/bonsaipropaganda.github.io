@@ -3,21 +3,24 @@ layout: default
 title: Some links!
 ---
 
-### Here is non exhaustive list of people who have influenced me, friends I've made, or blogs I've just stumbled into of interest.
+### Here are some of the people and places on the internet that I follow:
 
-I hope you gain something from these places just as I have. I'll continue to add to this list and maybe it will be a huge list one day. These links are in no particular order and in some ways will just serve as a "bookmarks" bar for myself: addresses to places I want to visit again.
+I hope you gain something from these places just as I have. 
 
-- <https://www.robingreenfield.org/blog/>
-- <https://newschoolrevolution.com/>
-- <https://www.themarginalian.org/>
-- <https://clementineaccount.github.io/>
-- <https://dvatvani.com/blog>
-- <https://aaronparecki.com>
-- <https://www.todepond.com/>
-- <https://sky-spire.bearblog.dev/>
-- <https://odinsongames.substack.com>
-- <https://widdershinswanderings.bearblog.dev>
-- <https://www.omocat.com>
-- <https://www.dreamingspanish.com/blog>
-- <https://blog.ecosia.org/>
-- <http://gyanl.com>
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fwww.robingreenfield.org%2Fblog%2Ffeed&limit=1&showtitle=false&type=js"></script>
+
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fnewschoolrevolution.com%2Ffeed%2F&limit=1&showtitle=false&type=js"></script>
+
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fwww.themarginalian.org%2Ffeed&limit=1&showtitle=false&type=js"></script>
+
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fdvatvani.com%2Fapi%2Frss.xml&limit=1&showtitle=false&type=js"></script>
+
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fwww.todepond.com%2Ffeed%2Findex.xml&limit=1&showtitle=false&type=js"></script>
+
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fodinsongames.substack.com%2Ffeed&limit=1&showtitle=false&type=js"></script>
+
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fwiddershinswanderings.bearblog.dev%2Ffeed%2F%3Ftype%3Drss&limit=1&showtitle=false&type=js"></script>
+
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fblog.ecosia.org%2Ffeed&limit=1&showtitle=false&type=js"></script>
+
+This code is thanks to <nerdiedad.com>.
