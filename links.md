@@ -23,4 +23,6 @@ I hope you gain something from these places just as I have.
 
 <script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Fblog.ecosia.org%2Ffeed&limit=1&showtitle=false&type=js"></script>
 
-This code is thanks to <nerdiedad.com>.
+<script src="//nerdiedad.com/tools/rss-to-html/?url=https%3A%2F%2Findieblog.page%2Fdailyfeed&limit=1&showtitle=false&type=js"></script>
+
+This code is thanks to <https://nerdiedad.com>.
