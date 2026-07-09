@@ -7,7 +7,6 @@ title: Todo
 
 
 ### Here are some things I still want to do:
-- fix my domain email
 - add link to Esperanto YouTube channel/just display some of my things
 - add gifs
 - things I like and/or art I've made
