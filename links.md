@@ -23,6 +23,6 @@ title: Some links!
 
 ### <a href="https://blog.ecosia.org/">Ecosia Blog</a>
 
-### < href="https://augustlamm.com"> August Lamm</a>
+### <a href="https://augustlamm.com">August Lamm</a>
 
 ### <a href="https://indieblog.page/rss">Indieblog.page Daily Random Post</a>
