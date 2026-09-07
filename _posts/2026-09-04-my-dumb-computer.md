@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Dumb Computer: What, why, and how?
+title: My Dumb Computer- What, why, and how?
 tags: tech minimalism
 ---
 ### What?
