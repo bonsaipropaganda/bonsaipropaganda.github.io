@@ -4,6 +4,7 @@ title: My Jailbroken Kindle
 tags: tech
 ---
 ![kindle 03](../images/kindle_03.png)
+![DS Roadmap](../images/DS_Roadmap.png)
 
 I jailbroke my Kindle inspired by Damnit Jeff's video using Winterbreak (at the time the latest jailbreak). It wasn't very difficult. If you have an old kindle lying around like I did (mine was like ten years old), then I implore you to jailbreak yours as well. My kindle used to be something that sat in my closet for years collecting dust. Jailbreaking it has breathed new life into it. With my new digital setup of no longer having a smartphone and after turning my computer into an actual dumb computer, my jailbroken kindle is something I actually use now! It brings me a lot of joy.
 
