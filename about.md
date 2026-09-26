@@ -4,21 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi I'm Seth Louis! I’m a game developer and lifelong learner.
-
 ### More Information
 
-My work is an attempt at expressing something unique that can connect with people and make them reassess how they’re living. I hope to make the world a better place through the things that I make.
-
-I have a variety of experience in different fields including education and specifically teaching others to code. My favorite part about helping others learn to code is when I’m able to blow someone’s mind by dropping a knowledge bomb on their chrome dome.
-
-If I’m not working on a coding project you can find me digging in the dirt planting native flora or learning a made up language.
-
-![me](/images/portrait.jpg)
+I originally made this site as a portfolio website prior to giving up on my dreams of working in tech. The rise of AI has solidified the choice I made. Now this is just a personal site that I do whatever I want with. I can never decide between an extreme minimalism aesthetic, or a maximalist 2000s aesthetic covered in GIFS and buttons. Currently, I'm going with the minimalist aesthetic as you can see. I think I will eventually add one of those buttons where I can switch between the two. My site is made using [Jekyll](https://jekyllrb.com/). Thanks for checking out my site. I hope you make one too.
 
 
 ### Contact me
 Say hello to me at
 [hello@sethlouis.dev](mailto:hello@sethlouis.dev)
 
-![an animated phone ringing]({{ site.baseurl }}/images/phone.gif)
